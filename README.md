@@ -13,7 +13,7 @@ El proyecto fue realizado durante mi segundo año de la carrera de **Ingeniería
 -  Gestión de información relacionada con las actividades musicales.
 -  Conexión con una base de datos MySQL.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **HTML**
 - **CSS**
